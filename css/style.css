@@ -1,0 +1,23 @@
+.hero {
+  padding: 6rem;
+  background-color: #96e9e5;
+}
+
+#galery {
+  background-color: #96e9e5;
+}
+
+.footer {
+  background-color: #1fa8a1;
+}
+
+.btn {
+  background: #96e9e5;
+}
+.btn:hover {
+  background: #1fa8a1;
+}
+
+section {
+  padding-top: 5rem;
+}
